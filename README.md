@@ -2,7 +2,7 @@
 Proyecto para descargar archivos desde múltiples cursos en u-cursos. Aún no funcional.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ppizarror/ppizarror.github.io/master/resources/images/u-files/captura1.PNG" width="90%px">
+<img src="https://raw.githubusercontent.com/ppizarror/ppizarror.github.io/master/resources/images/u-files/captura1.PNG" width="70%px">
 </p>
 
 ## Autor
