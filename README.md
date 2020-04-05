@@ -8,4 +8,4 @@ Proyecto para descargar archivos desde múltiples cursos en u-cursos. Aún no fu
 ## Autor
 Pablo Pizarro, 2014.
 
-Si tienes alguna sugerencia envíame un correo a: [pablo.pizarro@ing.uchile.cl](mailto:pablo.pizarro@ing.uchile.cl), o sencillamente ten la libertad de enviar un _pull request_.
+Si tienes alguna sugerencia envíame un correo a: [pablo@ppizarror.com](mailto:pablo@ppizarror.com), o sencillamente ten la libertad de enviar un _pull request_.

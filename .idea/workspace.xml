@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b9127a3-18d1-46a7-8f63-24ad011d83aa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/U-Files.exe" afterPath="$PROJECT_DIR$/U-Files.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/background/background1.gif" afterPath="$PROJECT_DIR$/data/images/background/background1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/background/background2.gif" afterPath="$PROJECT_DIR$/data/images/background/background2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/file.gif" afterPath="$PROJECT_DIR$/data/images/files/file.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/java.gif" afterPath="$PROJECT_DIR$/data/images/files/java.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/pdf.gif" afterPath="$PROJECT_DIR$/data/images/files/pdf.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/ppt.gif" afterPath="$PROJECT_DIR$/data/images/files/ppt.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/py.gif" afterPath="$PROJECT_DIR$/data/images/files/py.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/rar.gif" afterPath="$PROJECT_DIR$/data/images/files/rar.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/txt.gif" afterPath="$PROJECT_DIR$/data/images/files/txt.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/xls.gif" afterPath="$PROJECT_DIR$/data/images/files/xls.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/files/zip.gif" afterPath="$PROJECT_DIR$/data/images/files/zip.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/add.ico" afterPath="$PROJECT_DIR$/data/images/icons/add.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/application.ico" afterPath="$PROJECT_DIR$/data/images/icons/application.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/application_side_list.ico" afterPath="$PROJECT_DIR$/data/images/icons/application_side_list.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/arrow_rotate_clockwise.ico" afterPath="$PROJECT_DIR$/data/images/icons/arrow_rotate_clockwise.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/box.ico" afterPath="$PROJECT_DIR$/data/images/icons/box.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/briefcase.ico" afterPath="$PROJECT_DIR$/data/images/icons/briefcase.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/color_swatch.ico" afterPath="$PROJECT_DIR$/data/images/icons/color_swatch.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/color_wheel.ico" afterPath="$PROJECT_DIR$/data/images/icons/color_wheel.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/comment.ico" afterPath="$PROJECT_DIR$/data/images/icons/comment.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/cross.ico" afterPath="$PROJECT_DIR$/data/images/icons/cross.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/database_add.ico" afterPath="$PROJECT_DIR$/data/images/icons/database_add.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/disk.ico" afterPath="$PROJECT_DIR$/data/images/icons/disk.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/email.ico" afterPath="$PROJECT_DIR$/data/images/icons/email.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/exclamation.ico" afterPath="$PROJECT_DIR$/data/images/icons/exclamation.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/folder.ico" afterPath="$PROJECT_DIR$/data/images/icons/folder.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/folder_add.ico" afterPath="$PROJECT_DIR$/data/images/icons/folder_add.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/folder_bell.ico" afterPath="$PROJECT_DIR$/data/images/icons/folder_bell.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/folder_brick.ico" afterPath="$PROJECT_DIR$/data/images/icons/folder_brick.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/folder_delete.ico" afterPath="$PROJECT_DIR$/data/images/icons/folder_delete.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/folder_explore.ico" afterPath="$PROJECT_DIR$/data/images/icons/folder_explore.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/group.ico" afterPath="$PROJECT_DIR$/data/images/icons/group.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/help.ico" afterPath="$PROJECT_DIR$/data/images/icons/help.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/house.ico" afterPath="$PROJECT_DIR$/data/images/icons/house.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/licence.ico" afterPath="$PROJECT_DIR$/data/images/icons/licence.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_gear.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_gear.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_link.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_link.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_acrobat.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_acrobat.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_add.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_add.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_compressed.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_compressed.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_excel.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_excel.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_flash.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_flash.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_office.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_office.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_paintbrush.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_paintbrush.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_picture.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_picture.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_powerpoint.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_powerpoint.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_visualstudio.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_visualstudio.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_word.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_word.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_world.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_world.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_white_zip.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_white_zip.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/page_word.ico" afterPath="$PROJECT_DIR$/data/images/icons/page_word.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/ucursos.ico" afterPath="$PROJECT_DIR$/data/images/icons/ucursos.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/icons/user_gray.ico" afterPath="$PROJECT_DIR$/data/images/icons/user_gray.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/box_curso.gif" afterPath="$PROJECT_DIR$/data/images/sprites/box_curso.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/box_curso_loading.gif" afterPath="$PROJECT_DIR$/data/images/sprites/box_curso_loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/calendario.gif" afterPath="$PROJECT_DIR$/data/images/sprites/calendario.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/cursos.gif" afterPath="$PROJECT_DIR$/data/images/sprites/cursos.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/cursos_departamento.gif" afterPath="$PROJECT_DIR$/data/images/sprites/cursos_departamento.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/datos_curso.gif" afterPath="$PROJECT_DIR$/data/images/sprites/datos_curso.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/horario_curso.gif" afterPath="$PROJECT_DIR$/data/images/sprites/horario_curso.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/integrantes.gif" afterPath="$PROJECT_DIR$/data/images/sprites/integrantes.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/lupa.gif" afterPath="$PROJECT_DIR$/data/images/sprites/lupa.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/material_alumnos.gif" afterPath="$PROJECT_DIR$/data/images/sprites/material_alumnos.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/material_docente.gif" afterPath="$PROJECT_DIR$/data/images/sprites/material_docente.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/menu_cursos_box.gif" afterPath="$PROJECT_DIR$/data/images/sprites/menu_cursos_box.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/images/sprites/novedades_institucion.gif" afterPath="$PROJECT_DIR$/data/images/sprites/novedades_institucion.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/config/translates.ini" afterPath="$PROJECT_DIR$/langs/config/translates.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/icons/alert.ico" afterPath="$PROJECT_DIR$/langs/icons/alert.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/icons/icon.ico" afterPath="$PROJECT_DIR$/langs/icons/icon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analysis.py" afterPath="$PROJECT_DIR$/analysis.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/browser.py" afterPath="$PROJECT_DIR$/browser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/documents/ascii.txt" afterPath="$PROJECT_DIR$/data/documents/ascii.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/documents/ayuda.txt" afterPath="$PROJECT_DIR$/data/documents/ayuda.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/documents/changelog.txt" afterPath="$PROJECT_DIR$/data/documents/changelog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/documents/licence/GNU.txt" afterPath="$PROJECT_DIR$/data/documents/licence/GNU.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/errors.py" afterPath="$PROJECT_DIR$/errors.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/ES.txt" afterPath="$PROJECT_DIR$/langs/ES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/config/Langs.bat" afterPath="$PROJECT_DIR$/langs/config/Langs.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/config/config.ini" afterPath="$PROJECT_DIR$/langs/config/config.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/config/const.ini" afterPath="$PROJECT_DIR$/langs/config/const.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/config/langs.txt" afterPath="$PROJECT_DIR$/langs/config/langs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/doc/AYUDA.txt" afterPath="$PROJECT_DIR$/langs/doc/AYUDA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/doc/GNU.txt" afterPath="$PROJECT_DIR$/langs/doc/GNU.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/doc/STATES.txt" afterPath="$PROJECT_DIR$/langs/doc/STATES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/main.py" afterPath="$PROJECT_DIR$/langs/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langs/translate.py" afterPath="$PROJECT_DIR$/langs/translate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib.py" afterPath="$PROJECT_DIR$/lib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pop.py" afterPath="$PROJECT_DIR$/pop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textures.py" afterPath="$PROJECT_DIR$/textures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ufiles.py" afterPath="$PROJECT_DIR$/ufiles.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ufiles.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ufiles.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-192">
+              <caret line="230" column="17" lean-forward="false" selection-start-line="230" selection-start-column="8" selection-end-line="230" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analysis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.test</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ufiles.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="U-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="U-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/korektor" />
+  </component>
+  <component name="RunManager" selected="Python.ufiles">
+    <configuration default="false" name="ufiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ufiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="U-Files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.ufiles" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.ufiles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b9127a3-18d1-46a7-8f63-24ad011d83aa" name="Default" comment="" />
+      <created>1488334051235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488334051235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ufiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="230" column="17" lean-forward="false" selection-start-line="230" selection-start-column="8" selection-end-line="230" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
